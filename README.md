@@ -14,7 +14,7 @@ I love learning new technologies, teaching others, and participating in hackatho
 ---
 
 ### 🛠️ Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,php,express.js,Tailwind Css, Bootstrap,laravel,Gsap, Framer Motion,Responsive Web Design,Canvagit,github)
 
 ---
 
