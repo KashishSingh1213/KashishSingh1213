@@ -27,16 +27,16 @@ I love learning new technologies, teaching others, and participating in hackatho
   <a href="https://github.com/KashishSingh1213" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://instagram.com/_.kashish._0912" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/kashish-singh-705263300/?skipRedirect=true" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
   
 ---
-## 📊 My GitHub Stats
+
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KashishSingh1213&show_icons=true&theme=default" />
