@@ -19,22 +19,40 @@ I love learning new technologies, teaching others, and participating in hackatho
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,php,express,tailwind,bootstrap,laravel,git,github" />
 </p>
 
-
+## 🌐 Socials
+<p align="left">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://github.com/KashishSingh1213" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+  
 ---
 ## 📊 My GitHub Stats
+## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavArora1213&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KashishSingh1213&show_icons=true&theme=default" />
 </p>
+
                                       
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavArora1213&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KashishSingh1213&theme=default" />
 </p>
-                           
+                   
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadhavArora1213&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashishSingh1213&theme=default" />
 </p>
+
 
 
 ### 📊 GitHub Stats
