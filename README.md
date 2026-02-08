@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Kashish Singh  
 
-<!--
-**KashishSingh1213/KashishSingh1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech CSE Student | Full Stack Developer | AI Enthusiast  
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building real-world web and AI projects.  
+I love learning new technologies, teaching others, and participating in hackathons & tech events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in India 🇮🇳  
+- 🎓 B.Tech in Computer Science & Engineering  
+- 🚀 Interested in Full Stack Development & AI  
+- 🤝 Open to collaborations & hackathons  
+- 📫 Email: singhkashish364@gmail.com  
+
+---
+
+### 🛠️ Skills
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,github)
+
+---
+
+### 📊 GitHub Stats
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=KashishSingh12)
+
