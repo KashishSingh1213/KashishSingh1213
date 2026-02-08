@@ -19,5 +19,5 @@ I love learning new technologies, teaching others, and participating in hackatho
 ---
 
 ### 📊 GitHub Stats
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=KashishSingh12)
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=KashishSingh1213&show_icons=true&theme=tokyonight)
 
