@@ -56,11 +56,7 @@ I love learning new technologies, teaching others, and participating in hackatho
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KashishSingh1213&theme=default" 
-    alt="GitHub Streak"
-  />
-</p>
+https://github-readme-stats.vercel.app/api?username=KashishSingh1213&show_icons=true&theme=tokyonight
+
 
 
